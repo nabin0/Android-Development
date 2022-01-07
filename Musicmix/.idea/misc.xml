@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nabin/Documents/Android/Musicmix/app/src/main/res/drawable/bottom_sheet_bg.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/nabin/Documents/Android/Musicmix/app/src/main/res/drawable/textview_bg.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/nabin/Documents/Android/Musicmix/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/nabin/Documents/Android/Musicmix/app/src/main/res/layout/activity_play_song.xml" value="0.25" />
+        <entry key="..\:/Users/nabin/Documents/Android/Musicmix/app/src/main/res/layout/fragment_bottom_sheet_songs_list.xml" value="0.209375" />
+        <entry key="..\:/Users/nabin/Documents/Android/Musicmix/app/src/main/res/layout/fragment_search.xml" value="0.25" />
+        <entry key="..\:/Users/nabin/Documents/Android/Musicmix/app/src/main/res/layout/fragment_setting.xml" value="0.14175724637681159" />
+        <entry key="..\:/Users/nabin/Documents/Android/Musicmix/app/src/main/res/layout/fragment_songs.xml" value="0.25" />
+        <entry key="..\:/Users/nabin/Documents/Android/Musicmix/app/src/main/res/layout/songs_list_model_view.xml" value="0.33" />
+        <entry key="..\:/Users/nabin/Documents/Android/Musicmix/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/songs"
+        android:enabled="true"
+        android:icon="@drawable/music_album"
+        android:title="@string/songs"/>
+    <item
+        android:id="@+id/search"
+        android:enabled="true"
+        android:icon="@drawable/search"
+        android:title="@string/search"/>
+    <item
+        android:id="@+id/equalizer"
+        android:enabled="true"
+        android:icon="@drawable/equalizer"
+        android:title="@string/equalizer"/>
+    <item
+        android:id="@+id/setting"
+        android:enabled="true"
+        android:icon="@drawable/setting"
+        android:title="@string/settings"/>
+</menu>
