@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "418656304747",
+    "firebase_url": "https://myapp-3dda4-default-rtdb.firebaseio.com",
+    "project_id": "myapp-3dda4",
+    "storage_bucket": "myapp-3dda4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418656304747:android:b89bc840364c9c6689bb2e",
+        "android_client_info": {
+          "package_name": "com.myapk.myinstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418656304747-bl1rvabm3od2obr7jud8r32j5db2vfmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtA8TM_3ctSsOG-PsyA3qcY5OcelqKN_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418656304747-bl1rvabm3od2obr7jud8r32j5db2vfmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418656304747:android:a5cb6fd642ea726689bb2e",
+        "android_client_info": {
+          "package_name": "com.nabin.frebasestoredata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418656304747-bl1rvabm3od2obr7jud8r32j5db2vfmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtA8TM_3ctSsOG-PsyA3qcY5OcelqKN_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418656304747-bl1rvabm3od2obr7jud8r32j5db2vfmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418656304747:android:4ed528f8502e029589bb2e",
+        "android_client_info": {
+          "package_name": "com.nabin.otpverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418656304747-bl1rvabm3od2obr7jud8r32j5db2vfmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtA8TM_3ctSsOG-PsyA3qcY5OcelqKN_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418656304747-bl1rvabm3od2obr7jud8r32j5db2vfmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
